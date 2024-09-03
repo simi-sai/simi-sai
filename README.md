@@ -31,7 +31,6 @@ You can contact me on: simonsaillen29@gmail.com
 
 ### :fire: My stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simi-sai&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simi-sai&theme=dark&hide_border=true)
 
 ---
