@@ -7,7 +7,7 @@
 
 ### :technologist: About me :
 
-Hello, my name is Simón, I'm 23 years old, born and raised in Córdoba Argentina.
+Hello, my name is Simón, I'm 24 years old, born and raised in Córdoba Argentina.
 
 I'm an advanced computer engineering student, throghout my carreer I've aquired a wide range of skills going from low-level programming like Assembly and VHDL to high-level like C++, Java or Python as well as designing and assembling electronic circuits.
 
