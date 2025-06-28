@@ -29,12 +29,6 @@ You can contact me on: simonsaillen29@gmail.com
 
 ---
 
-### :fire: My stats :
-
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simi-sai&theme=dark&hide_border=true)
-
----
-
 <div id="header_2" align="center">
   <div id="badges">
       <a href="https://www.linkedin.com/in/simon-saillen/">
