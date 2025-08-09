@@ -5,37 +5,40 @@
   </h1>
 </div>
 
-### :technologist: About me :
+### 🧑‍💻 About me :
 
 Hello, my name is Simón, I'm 24 years old, born and raised in Córdoba Argentina.
 
-I'm an advanced computer engineering student, throghout my carreer I've aquired a wide range of skills going from low-level programming like Assembly and VHDL to high-level like C++, Java or Python as well as designing and assembling electronic circuits.
+As a final-year Computer Engineering student, I've cultivated a robust and versatile skill set that bridges the gap between hardware and software. My expertise ranges from designing at the lowest level, using languages like Assembly and VHDL, to developing high-level applications in C++, Java, and Python. This deep understanding is complemented by extensive hands-on experience in the design and assembly of intricate electronic circuits. I am passionate about leveraging this full-stack engineering perspective to tackle complex problems and create innovative solutions.
 
-You can contact me on: simonsaillen29@gmail.com
+<p>
+  <a href="https://www.linkedin.com/simon-saillen" rel="nofollow noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="15" alt="LinkedIn">LinkedIn</a> &nbsp; 
+  <a href="https://github.com/simi-sai" rel="nofollow noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="15" alt="GitHub">GitHub</a> &nbsp;
+  <a href="mailto:simonsaillen29@gmail.com" rel="nofollow noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="15" alt="Gmail">Gmail</a> &nbsp;
+</p>
 
 ---
 
-### 🛠️ Lenguages and Tools :
+### 🧰 Programming Lenguages :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/>&nbsp
 </div>
 
----
+### 🛠️ Tools :
 
-<div id="header_2" align="center">
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/simon-saillen/">
-        <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="35"/>
-      </a>
-      <a href="https://www.instagram.com/simonsaillen/">
-        <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" height="35"/>
-      </a>
-    </div>
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Light.svg" alt="CMake" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="Prometheus" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" alt="Grafana" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Light.svg" alt="Octave" width="40" height="40"/>&nbsp
 </div>
