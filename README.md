@@ -11,11 +11,9 @@ Hello, my name is Simón.
 
 As a final-year Computer Engineering student, I've cultivated a robust and versatile skill set that bridges the gap between hardware and software. My expertise ranges from designing at the lowest level, using languages like C, Assembly and Verilog HDL, to developing high-level applications in C++, Java, and Python. This deep understanding is complemented by extensive hands-on experience in the design and assembly of intricate electronic circuits. I am passionate about leveraging this full-stack engineering perspective to tackle complex problems and create innovative solutions.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/simon-saillen" rel="nofollow noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="15" alt="LinkedIn">LinkedIn</a> &nbsp; 
-  <a href="https://github.com/simi-sai" rel="nofollow noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="15" alt="Gmail">Gmail</a> &nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="15" alt="LinkedIn">LinkedIn</a> &nbsp;
 </p>
 
 ---
